@@ -54,6 +54,7 @@ params:
         style: icon
         icon: linkedin
         new_window: true
+  domain: 'https://futuristic-hedgehog-5655f.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
